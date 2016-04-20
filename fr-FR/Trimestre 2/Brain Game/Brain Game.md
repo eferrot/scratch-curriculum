@@ -9,7 +9,7 @@ materials: ["Club Leader Resources/*.*"]
 
 # Introduction { .intro }
 
-Dans ce projet vous apprendrez à créer un questionnaire sur les tables de multiplication, dans lequel vous devez obtenir autant de réponses corrects que vous pouvez en 30 secondes.
+Dans ce projet vous apprendrez à créer un questionnaire sur les tables de multiplication, dans lequel vous devez obtenir autant de réponses correctes que vous pouvez en 30 secondes.
 
 <div class="scratch-preview">
 	<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/42225768/?autostart=false" frameborder="0"></iframe>
