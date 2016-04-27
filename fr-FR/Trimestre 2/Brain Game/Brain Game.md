@@ -189,7 +189,7 @@ Au lieu de votre personnage disant juste ` oui! :) ` ou ` non ` , ajoutons un gr
 
 	![screenshot](brain-test-answer.png)
 
-+ Avez-vous remarquer que le code ` quand je reçois correct ` {.blockevents} et ` quand je reçois mal ` {.blockevents} est presque identique ? Créons une fonction pour rendre la modifiation du code plus facile.
++ Avez-vous remarqué que le code ` quand je reçois correct ` {.blockevents} et ` quand je reçois mal ` {.blockevents} est presque identique ? Créons une fonction pour rendre la modifiation du code plus facile.
 
 	Sur votre lutin 'Résultat', cliquez sur ` Ajouter blocs ` {.blockmoreblocks}, Et ensuite ' Créer un Bloc '. Créez une nouvelle fonction appelée 'animée' {.blockmoreblocks}.
 
